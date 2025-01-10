@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>NerdFeed</title>
+    <link>https://thcorporation.github.io/nerdfeed</link>
+    <description>Best Kodi feed</description>
+    <item>
+      <title>Python 2.0 was discontinued on Kodi Matrix</title>
+      <link>https://thcorporation.github.io/nerdfeed/001</link>
+      <description>Learn more at: https://kodi.tv/article/the-sun-sets-on-python-2/</description>
+      <pubDate>Mon, 09 Jan 2025 5:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Sun Sets on the Elysium Skin</title>
+      <link>https://thcorporation.github.io/nerdfeed/item2</link>
+      <description>As of Jan 1, 2018 the Elysium skin for Kodi has been officially discontinued. This beloved skin, known for its stunning visuals and customization options, will no longer receive updates or support. Users are encouraged to explore alternative skins available in the Kodi repository to enhance their media center experience. For further discussions and updates, please visit the Kodi community forums.</description>
+      <pubDate>Fri, 09 Jan 2024 10 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
