@@ -1,3 +1,11 @@
+---
+name: "Bug Report"
+about: "Report a bug you've encountered"
+title: "[BUG]: "
+labels: bug
+assignees: ''
+---
+
 ### Bug Report
 
 **Description:**
@@ -22,3 +30,11 @@ What actually happened?
 
 **Additional Information:**
 Please provide any additional information that may help in resolving the issue.
+
+---
+
+## Thanks for reporting the bug!
+
+If you need real-time help, join us on Discord.
+
+**Please describe the bug below:**
