@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+labels:
+  - name: "Bug Report"
+    description: "A bug in the project"
+    color: "f00"
+  - name: "Feature Request"
+    description: "A new feature request"
+    color: "0f0"
