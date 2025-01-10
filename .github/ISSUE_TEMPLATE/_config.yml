@@ -1,2 +1,7 @@
-name: "Issue Templates"
-description: "Templates for reporting bugs and requesting features."
+name: "Support Request"
+description: "Something went wrong and you need help?"
+
+body:
+  - type: textarea
+    attributes:
+      label: "What's wrong?"
