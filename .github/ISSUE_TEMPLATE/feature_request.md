@@ -1,3 +1,11 @@
+---
+name: "Feature Request"
+about: "Suggest a new feature or enhancement"
+title: "[FEATURE]: "
+labels: enhancement
+assignees: ''
+---
+
 ### Feature Request
 
 **Description:**
@@ -18,3 +26,11 @@ Explain how this feature would be beneficial to users.
 
 **Additional Information:**
 Please provide any additional information that may help in understanding the feature request.
+
+---
+
+## Thanks for suggesting a feature!
+
+If you'd like to discuss your idea or get more help, join us on Discord.
+
+**Please describe your feature request below:**
