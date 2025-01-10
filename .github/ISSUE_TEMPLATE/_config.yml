@@ -1,61 +1,13 @@
-name: "Support Request"
-description: "Something went wrong and you need help?"
-
 body:
-  - type: textarea
+  - type: markdown
     attributes:
-      label: "What's wrong?"
-
-bug:
-  name: "Bug"
-  description: "Report a bug you've encountered."
-  body: |
-    ### Bug Report
-
-    **Description:**
-    Please provide a clear and concise description of the bug.
-
-    **Expected Behavior:**
-    What did you expect to happen?
-
-    **Actual Behavior:**
-    What actually happened?
-
-    **Steps to Reproduce:**
-    1. Step one
-    2. Step two
-    3. Step three
-
-    **Environment:**
-    - Kodi Version: 
-    - NerdFeed Version: 
-    - Operating System: 
-    - Any other relevant information:
-
-    **Additional Information:**
-    Please provide any additional information that may help in resolving the issue.
-
-feature:
-  name: "Feature"
-  description: "Suggest a new feature or enhancement."
-  body: |
-    ### Feature Request
-
-    **Description:**
-    Please provide a clear and concise description of the feature you would like to see.
-
-    **Use Case:**
-    Explain how this feature would be beneficial to users.
-
-    **Proposed Implementation:**
-    1. **User Interface:** 
-       - Describe any UI changes or additions.
-       
-    2. **Functionality:**
-       - Describe how the feature should work.
-
-    3. **Error Handling:**
-       - Describe any error handling that should be implemented.
-
-    **Additional Information:**
-    Please provide any additional information that may help in understanding the feature request.
+      value: "## Bug Report"
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report! Email us at thcorporation8@yahoo.com    attributes:
+      value: "## Feature Request"
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a feature! Email us at thcorporation8@yahoo.com
