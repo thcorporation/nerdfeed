@@ -1,1 +1,2 @@
-# This file can be empty or omitted if not needed.
+name: "Issue Templates"
+description: "Templates for reporting bugs and requesting features."
