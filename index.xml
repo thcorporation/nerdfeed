@@ -1,9 +1,31 @@
-<?xml version="1.1" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>NerdFeed</title>
     <link>https://thcorporation.github.io/nerdfeed</link>
-    <description>Best Kodi feed</description>
+    <description>Best Kodi, gaming, and tech feed</description>
+    
+    <!-- Items from NerdFeed-v2 -->
+    <item>
+      <title>Kodi 21.0 "Omega" Update || New Platform: webOS ||| Kodi now runs natively on LG webOS TVs!</title>
+      <link>https://thcorporation.github.io/nerdfeed-v2/tid=01</link>
+      <description>Kodi now runs natively on LG webOS TVs!</description>
+      <pubDate>Mon, 09 Jan 2025 05:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Animal Crossing: New Horizons Update || Brewster's Café Now Open! ||| Brewster's Café has arrived!</title>
+      <link>https://thcorporation.github.io/nerdfeed-v2/tid=02</link>
+      <description>Brewster's Café now open!</description>
+      <pubDate>Mon, 09 Jan 2025 05:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samsung Tizen TV Update || Enhanced Entertainment and Accessibility ||| Stunning visuals, immersive audio!</title>
+      <link>https://thcorporation.github.io/nerdfeed-v3/tid=03324</link>
+      <description>Enhanced entertainment features!</description>
+      <pubDate>Mon, 09 Jan 2025 05:12:10 GMT</pubDate>
+    </item>
+    
+    <!-- Items from NerdFeed -->
     <item>
       <title>Python 2.0 was discontinued on Kodi Matrix || Learn more at: https://kodi.tv/article/the-sun-sets-on-python-2/</title>
       <link>https://thcorporation.github.io/nerdfeed/001</link>
